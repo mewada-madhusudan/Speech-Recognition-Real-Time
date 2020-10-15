@@ -1,0 +1,6 @@
+Following Libraries needed to run this code... 
+
+speech Recognition
+tkinter
+
+You need to run code on PyCharm/Jupyter Notebook
